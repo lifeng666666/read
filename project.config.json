@@ -5,12 +5,15 @@
 		"es6": true,
 		"postcss": true,
 		"minified": true,
-		"newFeature": true
+		"newFeature": true,
+		"autoAudits": false
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.6.6",
-	"appid": "wx57245683f00c539c",
+	"appid": "wx3ccdbc5c2c0346ab",
 	"projectname": "leisure-reader",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,

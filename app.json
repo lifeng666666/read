@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/login/login",
     "pages/bookshelf/bookshelf",
     "pages/details/details",
     "pages/bookCity/bookCity",
@@ -12,7 +13,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "轻读书屋",
+    "navigationBarTitleText": "看书小助手",
     "navigationBarTextStyle": "black"
   },
   "tabBar": {
@@ -39,5 +40,6 @@
         "text": "搜索"
       }
     ]
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }

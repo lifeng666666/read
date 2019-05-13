@@ -1,6 +1,6 @@
 {
-  "navigationBarTitleText": "轻读",
+  "navigationBarTitleText": "看书小助手",
   "backgroundTextStyle": "light",
   "navigationBarBackgroundColor": "#cb1c36",
-  "navigationBarTextStyle": "#f2f2f2"
+  "navigationBarTextStyle": "black"
 }
